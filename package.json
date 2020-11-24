@@ -12,7 +12,9 @@
     "electron-is-dev": "^1.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "react-split": "^2.0.9",
+    "react-split-pane": "^0.1.92"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -50,7 +52,7 @@
       "build/**/*",
       "node_modules/**/*"
     ],
-    "directories":{
+    "directories": {
       "buildResources": "assets"
     }
   }
