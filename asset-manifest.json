@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/markreader/static/css/main.a6f0b736.chunk.css",
+    "main.js": "/markreader/static/js/main.fd567f3c.chunk.js",
+    "main.js.map": "/markreader/static/js/main.fd567f3c.chunk.js.map",
+    "runtime-main.js": "/markreader/static/js/runtime-main.8758bba7.js",
+    "runtime-main.js.map": "/markreader/static/js/runtime-main.8758bba7.js.map",
+    "static/css/2.b2f02b1f.chunk.css": "/markreader/static/css/2.b2f02b1f.chunk.css",
+    "static/js/2.09bc29ce.chunk.js": "/markreader/static/js/2.09bc29ce.chunk.js",
+    "static/js/2.09bc29ce.chunk.js.map": "/markreader/static/js/2.09bc29ce.chunk.js.map",
+    "index.html": "/markreader/index.html",
+    "precache-manifest.0f3aec1227f0f9a3f02a13dc84aa9a43.js": "/markreader/precache-manifest.0f3aec1227f0f9a3f02a13dc84aa9a43.js",
+    "service-worker.js": "/markreader/service-worker.js",
+    "static/css/2.b2f02b1f.chunk.css.map": "/markreader/static/css/2.b2f02b1f.chunk.css.map",
+    "static/css/main.a6f0b736.chunk.css.map": "/markreader/static/css/main.a6f0b736.chunk.css.map",
+    "static/js/2.09bc29ce.chunk.js.LICENSE.txt": "/markreader/static/js/2.09bc29ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8758bba7.js",
+    "static/css/2.b2f02b1f.chunk.css",
+    "static/js/2.09bc29ce.chunk.js",
+    "static/css/main.a6f0b736.chunk.css",
+    "static/js/main.fd567f3c.chunk.js"
+  ]
+}
